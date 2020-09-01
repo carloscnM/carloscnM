@@ -17,8 +17,8 @@
 
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/carlos-mario-oliveira-3b58b0114" target="blank"><img align="center" src="https://user-images.githubusercontent.com/32484259/91908874-9b157600-ec82-11ea-874d-cd84bf1ffb0e.png" alt="CarlosMario"  /></a>
-  <a href="https://www.instagram.com/carloscnm1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/32484259/91908873-9a7cdf80-ec82-11ea-9cfa-ce5906792786.png" alt="@carloscnm1"  /></a>  
+  <a href="https://www.linkedin.com/in/carlos-mario-oliveira-3b58b0114" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/32484259/91908874-9b157600-ec82-11ea-874d-cd84bf1ffb0e.png" alt="CarlosMario"  /></a>
+  <a href="https://www.instagram.com/carloscnm1/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/32484259/91908873-9a7cdf80-ec82-11ea-9cfa-ce5906792786.png" alt="@carloscnm1"  /></a>  
 </p>
 
 
