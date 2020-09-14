@@ -8,7 +8,7 @@
   </strong>
 </h4>
 
-- 🔨I’m currently working on [justAuth](https://github.com/carloscnM/justauth)
+- 🔨I’m currently working on [justAuth](https://github.com/carloscnM/justauth) and [cnmflix](https://github.com/carloscnM/cnmflix)
 - 📚 I’m currently learning .Net Core and ReactJs
 - 🙄 I’m looking to collaborate on c # and react projects
 
