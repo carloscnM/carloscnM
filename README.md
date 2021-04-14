@@ -4,7 +4,7 @@
 
 <h4 align="center">
   <strong>
-    Graduated in Technology in Analysis and System Development from the Federal Institute of Education, Science and Technology of São Paulo (IFSP). Currently working withsoftware development with extensive knowledge in the area. Experience in software development in C #, NodeJS and ASP.NET and ASP.NET Core platforms.
+    Graduated in Technology in Analysis and System Development from the Federal Institute of Education, Science and Technology of São Paulo (IFSP). Currently working with software development with extensive knowledge in the area. Experience in software development in C #, NodeJS and ASP.NET and ASP.NET Core platforms.
   </strong>
 </h4>
 
